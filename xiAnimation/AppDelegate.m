@@ -27,7 +27,7 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     //  设置RootViewController
-    iAnimaViewController *view = [[iAnimaViewController alloc] init];
+    KCMainViewController *view = [[KCMainViewController alloc] init];
     self.window.rootViewController = [[UINavigationController alloc] initWithRootViewController:view];
     
     return YES;
