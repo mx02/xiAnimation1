@@ -55,7 +55,7 @@
     //3.添加动画到图层，注意key相当于给动画进行命名，以后获得该图层时可以使用此名称获取
     [_layer addAnimation:basicAnimation forKey:@"KCBasicAnimation_Translation"];
     [_layer1 addAnimation:basicAnimation forKey:@"KCBasicAnimation_Translations"];
-    NSLog(@"123");
+    //NSLog(@"123");
 }
 #pragma mark 旋转动画
 -(void)rotationAnimation{
