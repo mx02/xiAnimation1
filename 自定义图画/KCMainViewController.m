@@ -46,7 +46,7 @@
     
     NSLog(@"你好，你叫什么名字");
 
-    
+    NSLog(@"%@",string);
 //    [self.view addSubview:view];
 }
 
