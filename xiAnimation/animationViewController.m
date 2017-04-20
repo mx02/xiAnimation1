@@ -138,6 +138,17 @@
     //设置跟图层的中心点  添加到手指点的方向
 //    layer.position=[touch locationInView:self.view];
     layer.cornerRadius=width/2;
+    
+    
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+//    layer.cornerRadius=width/2;
+
 }
 
 
